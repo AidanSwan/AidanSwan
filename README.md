@@ -8,7 +8,7 @@ I'm Aidan, A computer science & engineering student at The University of Nevada 
 
 ## Contact Me!
 - [LinkedIn](https://www.linkedin.com/in/aidan-swan-b0b525381/)
-- [Email](aidan.r.swan@gmail.com)
+- [Email](mailto:aidan.r.swan@gmail.com)
 
 <!--
 **AidanSwan/AidanSwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
