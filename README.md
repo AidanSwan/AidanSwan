@@ -1,4 +1,4 @@
-## Hello !
+## Hello 🦧!
 
 I'm Aidan, A computer science & engineering student at The University of Nevada Reno.
 
